@@ -2,7 +2,9 @@
 - Backend Python
   - API [Fastapi]
   - Train Model [Tensorflow Deep Learning] Wihtout GPU | CPU train
-  - Food Dataset 1000 rows 1 features -> Age
+  - Food Dataset 1000 rows 1 feature -> Age
+  - epochs 150 rounds
+  - accuracy average 0.97
 - Frontend Node NextJS [Typescript]
   - shadcn-ui
   - tailwind
