@@ -1,4 +1,6 @@
-# TECH STACK 
+# AI Nutrient
+
+Tech Stack
 - Backend Python
   - API [Fastapi]
   - Train Model [Tensorflow Deep Learning] Wihtout GPU | CPU train
